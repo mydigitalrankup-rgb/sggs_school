@@ -1,0 +1,115 @@
+   .ourbg {
+       background-color: rgb(249, 243, 238)
+   }
+   .headerimg{
+    
+  mix-blend-mode: multiply;   /* blends white background */
+  background: transparent;
+
+
+   }
+
+   .textclr {
+       color: #8C1007;
+   }
+
+   .bgwine {
+       background-color: #8C1007;
+   }
+
+   .nav-link:hover {
+       color: #8C1007 !important;
+   }
+
+   .bordert-wine {
+       border-top: 1px solid #8C1007
+   }
+
+   .borderb-wine {
+       border-bottom: 1px solid #8C1007
+   }
+
+
+   .active {
+       color: #8C1007 !important;
+   }
+
+   .section-title::before {
+       position: absolute;
+       content: "";
+       top: 10px;
+       left: 0;
+       width: 100%;
+       height: 2px;
+       background: #8C1007
+   }
+
+   .form-control:focus {
+       color: #495057;
+       background-color: #fff;
+       border-color: #8C1007 !important;
+       outline-color: #8C1007;
+       box-shadow: 0 0 0 0.2rem #8C1007;
+   }
+
+
+
+   .btn-outline-wine {
+       border: 1px solid #8C1007;
+       /* background-color: #8C1007; */
+       color: #8C1007;
+
+
+   }
+
+
+
+   .btn-outline-wine.active{
+     border: 1px solid #8C1007;
+       background-color: #8C1007;
+       color: #ffffff !important;
+   }
+
+
+   .btn-outline-wine:hover {
+       border: 1px solid #8C1007;
+       background-color: #8C1007;
+       color: #ffffff !important;
+
+   }
+
+
+
+
+   .custom-select:focus{
+    box-shadow: 0 0 0 0.2rem #8C1007;
+   }
+
+
+
+
+ 
+   select.form-select option {
+    background-color: #ffffff; /* white */
+    color: #000000;
+  }
+  
+  /* Hovered option (firefox support) */
+  select.form-select option:hover {
+    background-color: #8C1007; /* blue */
+    color: #fff;
+  }
+  
+  /* Selected option (active / checked) */
+  select.form-select option:checked {
+    background-color: #8C1007; /* purple */
+    color: #fff;
+  }
+
+
+
+  /* .container{overflow-x: hidden;} */
+
+
+
+  
