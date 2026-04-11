@@ -1,0 +1,7 @@
+    User-agent: *
+    Disallow:
+    Disallow:/admin/login
+    Disallow:/admin/createadmin
+    Disallow:/admin/dashboard
+    Sitemap:https://sggskhalsaschool.com//sitemap.xml
+    
